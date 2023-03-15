@@ -4,14 +4,14 @@
     margin: 0;
 }
 
-.header_section {
+#header_section {
     padding-top: 15px;
     margin-right: 20px;
-   float: right; 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    float: right; 
 }
-#header {
+.header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -24,10 +24,10 @@
     color: #d9dcd6;
 }
 
-#nav {
+.nav {
     list-style-type: none;
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 25px
 }
 
 #hero {
@@ -129,14 +129,12 @@ p {
 #benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-    margin-bottom: 10px;
     text-align: center;
 }
 
 #benefit-lead {
-    margin-bottom: 10px;
-    text-align: center;
     margin-bottom: 32px;
+    text-align: center;
     color: #ffffff;
 }
 
@@ -163,8 +161,5 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer-h2 {
     font-size: 20px;
 }
