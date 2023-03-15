@@ -4,10 +4,6 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -29,13 +25,14 @@ body {
     font-size: 20px;
 }
 
-.header_section_ul {
+.nav {
     list-style-type: none;
-}
-
-.header_section_ul_li {
     display: inline-block;
     margin-left: 25px;
+}
+
+body {
+    background-color: #d9dcd6;
 }
 
 a {
@@ -99,15 +96,15 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization-img {
+#search-engine-optimization-img {
     max-height: 200px;
 }
 
-.online-reputation-management-img {
+#online-reputation-management-img {
     max-height: 200px;
 }
 
-.social-media-marketing-img {
+#social-media-marketing-img {
     max-height: 200px;
 }
 
@@ -157,19 +154,19 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead-img {
+#benefit-lead-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand-img {
+#benefit-brand-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-cost-img {
+#benefit-cost-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
