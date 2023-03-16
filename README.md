@@ -16,8 +16,7 @@ None
 Usage is available on the Horiseon Website. You can use the website to find all of your marketing needs. 
 
 
-    ![Screenshot of Horiseon webpage](/assets/images/screencapture-cmeinsig-github-io-horiseon-refactor-2023-03-16-15_28_25.png)
-    
+![Screenshot of Horiseon webpage](./assets/images/screencapture-cmeinsig-github-io-horiseon-refactor-2023-03-16-15_28_25.png)
 
 ## Credits
 
