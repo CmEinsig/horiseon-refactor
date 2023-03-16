@@ -133,7 +133,7 @@ margin: 0px;
     margin-left: 20px;}
 
 /*Search Engine block*/
-.search-engine-optimization {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -141,7 +141,7 @@ margin: 0px;
     background-color: #0072bb;
     color: #ffffff;
 }
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 200px;
 }
 .search-engine-optimization h1 {
@@ -149,7 +149,7 @@ margin: 0px;
     font-size: 36px;
 }
 /*Online Reputation block*/
-.online-reputation-management {
+#online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -157,7 +157,7 @@ margin: 0px;
     background-color: #0072bb;
     color: #ffffff;
 }
-.online-reputation-management img {
+#online-reputation-management img {
     max-height: 200px;
 }
 .online-reputation-management h1 {
@@ -165,7 +165,7 @@ margin: 0px;
     font-size: 36px;
 }
 /*Social Media block*/
-.social-media-marketing {
+#social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -173,7 +173,7 @@ margin: 0px;
     background-color: #0072bb;
     color: #ffffff;
 }
-.social-media-marketing img {
+#social-media-marketing img {
     max-height: 200px;
 }
 .social-media-marketing h1 {
